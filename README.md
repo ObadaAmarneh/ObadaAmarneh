@@ -36,8 +36,9 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 
 
   <div align="right">
+<p>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ObadaAmarneh&show_icons=true)  
-
+  </p>
   </div>
 
 ![GitHub metrics](https://metrics.lecoq.io/ObadaAmarneh)  
