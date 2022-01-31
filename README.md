@@ -31,11 +31,8 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 
 <br />
 
-<div>
-  <h1 align="right">
+<div align="right">
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ObadaAmarneh)  
-
-</h1> 
 
  <div> 
   
