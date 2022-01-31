@@ -3,7 +3,7 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 </h1>
 
 ## 👩‍💻 About me:
-<div>
+<div width="200" >
 
 
 
