@@ -3,11 +3,20 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 </h1>
 
 ## 👩‍💻 About me:
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="208" height="318" />
+<div>
+<div align="right">
+<img  alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" /> 
+</div>
+
+<div align="left">
 *  Love Programming <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />
 *  My favorite programming language is JavaScript :blush:
 *  Playing chess is one of my hobbies:star: :sparkles:
 *  I like to spend my spare time solving puzzles and problems solving :muscle::zap:
+</div>
+  
+</div>
+  
 <br>
 
 ## 🧰 Languages & Tools:
