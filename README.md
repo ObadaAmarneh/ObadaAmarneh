@@ -1,6 +1,5 @@
-### Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /> 
-<br>
-
+### Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" align="right /> 
+  
 ## 👩‍💻 About me
 
 * <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I'm from Brazil
