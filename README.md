@@ -30,11 +30,11 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 [<img align="left" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 
 <br />
+<br />
 
-<!-- <div align="right"> -->
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ObadaAmarneh)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ObadaAmarneh align="right")  
 
-<!--  </div>  -->
+
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ObadaAmarneh&show_icons=true)  
 
