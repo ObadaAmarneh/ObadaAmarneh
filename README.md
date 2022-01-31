@@ -4,9 +4,8 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 
 ## 👩‍💻 About me
 *  Love Programming <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />
-*  https://www.iconfinder.com/icons/652581/code_command_develop_javascript_language_programming_software_icon
 *  My favorite programming language is JavaScript  <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" />
-*  My favorite programming language is JavaScript  <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_JavaScript-512.png" alt="" />
+*  My favorite programming language is JavaScript  <img width="16" src="file:///C:/Users/Ninja/Downloads/652581_code_command_develop_javascript_language_icon.svg" alt="" />
 * <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> As a challenge enthusiastic, I am diving into the data science world
 * 🏞️ Traveling is one of my favorite hobbies 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
