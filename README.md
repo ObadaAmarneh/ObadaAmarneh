@@ -37,8 +37,11 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 
 <br />
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ObadaAmarneh)  
+  
+ 
+![GitHub streak stats align="right"](https://github-readme-streak-stats.herokuapp.com/?user=ObadaAmarneh)  
 
+ 
 ## 📫 Connect with me:
 [<img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
