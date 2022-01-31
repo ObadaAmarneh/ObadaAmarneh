@@ -41,15 +41,15 @@ https://github-readme-streak-stats.herokuapp.com/?user={ObadaAmarneh}
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ghazal)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ObadaAmarneh)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Ghazal&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ObadaAmarneh&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Mohammad-Ghazal)  
+![GitHub metrics](https://metrics.lecoq.io/ObadaAmarneh)  
 
 
-![Profile views](https://gpvc.arturio.dev/Mohammad-Ghazal)
+![Profile views](https://gpvc.arturio.dev/ObadaAmarneh)
 
 [linkedin]:https://www.linkedin.com/in/obada-amarneh/
 [github]: https://github.com/ObadaAmarneh?tab=follow
