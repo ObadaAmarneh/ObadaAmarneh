@@ -5,22 +5,12 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 ## 👩‍💻 About me
 *  Love Programming <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />
 *  My favorite programming language is JavaScript  <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" />
-*  My favorite programming language is JavaScript  <img width="16" src="file:///C:/Users/Ninja/Downloads/652581_code_command_develop_javascript_language_icon.svg" alt="" />
-* <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> As a challenge enthusiastic, I am diving into the data science world
-* 🏞️ Traveling is one of my favorite hobbies 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
-* <img width="20" src="https://th.bing.com/th/id/R1f76efdfd131daf44c7af1ef4a9026d9?rik=qG6sBpJpY%2bjpIQ&riu=http%3a%2f%2fclipart-library.com%2fnew_gallery%2f266-2666042_yorkie-emojis-for-dog-lovers-messages-sticker-8.png&ehk=v%2f47NW1%2fqJ0dk5fNj7OxkYcAOK8XxZeZhUPpr4DjV%2bc%3d&risl=&pid=ImgRaw" alt="" /> <a href="https://www.instagram.com/littlefrodothedog/">Frodo</a> is the best friend I have, and guess what? He has four paws 🐾🐾 
-* <img width="20" src="https://image.flaticon.com/icons/png/512/1184/1184644.png" alt="" /> I already played in an orquestra in my college days, I played the transversal flute!
-
 <br>
 
 ## 🛠️Tech Stack
 - 👩‍💻 Programming Languages
 
 
-
-
-<br />
 <br />
 
 ## 🧰 Languages & Tools
