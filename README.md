@@ -39,6 +39,18 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={ObadaAmarneh}
 
 https://github-readme-streak-stats.herokuapp.com/?user={ObadaAmarneh}
 
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ghazal)  
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Ghazal&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Mohammad-Ghazal)  
+
+
+![Profile views](https://gpvc.arturio.dev/Mohammad-Ghazal)
+
 [linkedin]:https://www.linkedin.com/in/obada-amarneh/
 [github]: https://github.com/ObadaAmarneh?tab=follow
 [email]: mailto:obada.amarneh20@gmail.com
