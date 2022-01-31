@@ -5,6 +5,8 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 ## 👩‍💻 About me
 *  Love Programming <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />
 *  My favorite programming language is JavaScript :blush:
+*  Playing chess is one of my hobbies:star: :sparkles:
+*  I like to spend my spare time solving puzzles and problems solving :muscle::zap:
 <br>
 
 ## 🛠️Tech Stack
