@@ -31,6 +31,14 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 
 <br />
 
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={obadaAmarneh}&theme=vue
+
+https://github-readme-stats.vercel.app/api?username={obadaAmarneh}
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={ObadaAmarneh}
+
+https://github-readme-streak-stats.herokuapp.com/?user={ObadaAmarneh}
+
 [linkedin]:https://www.linkedin.com/in/obada-amarneh/
 [github]: https://github.com/ObadaAmarneh?tab=follow
 [email]: mailto:obada.amarneh20@gmail.com
