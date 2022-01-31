@@ -35,8 +35,10 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ObadaAmarneh)  
 
 
-  
+  <div align="right">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ObadaAmarneh&show_icons=true)  
+
+  </div>
 
 ![GitHub metrics](https://metrics.lecoq.io/ObadaAmarneh)  
 
