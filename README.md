@@ -1,6 +1,6 @@
 
 <h3 align="center">
-# Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
+
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
 </h3>
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+# Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 <p>I'm a cloud solution architect focused on data and AI at <strong><a href="https://microsoft.com/">Microsoft</a></strong>. 
 
 I've been working with technology since 2012, and during this time I worked with the most diverse types of projects like: gamming programming, web programming, network management systems, business Intelligence and big data (data engineering and architecture). 
