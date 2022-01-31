@@ -112,7 +112,7 @@ Take a look in some data projects which have already been making the world a bet
 
 
 
-[linkedin]:https://www.linkedin.com/in/mukul98s/
+[linkedin]:https://www.linkedin.com/in/obada-amarneh/
 [twitter]: https://twitter.com/mukul98s
 [github]: https://github.com/mukul98s?tab=follow
 [telegram]: https://t.me/mukul98s
