@@ -3,7 +3,7 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 </h1>
 
 ## 👩‍💻 About me:
-<div width="200" >
+
 
 
 
@@ -16,7 +16,7 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 <img  alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" /> 
 </div>
 
-</div>
+
   
 <br>
 
