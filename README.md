@@ -4,7 +4,7 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 
 ## 👩‍💻 About me
 *  Love Programming <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />
-*  My favorite programming language is JavaScript  <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" />
+*  My favorite programming language is JavaScript :blush:
 <br>
 
 ## 🛠️Tech Stack
