@@ -39,7 +39,7 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 
   
  
-![GitHub streak stats align="right"](https://github-readme-streak-stats.herokuapp.com/?user=ObadaAmarneh)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ObadaAmarneh)  
 
  
 ## 📫 Connect with me:
