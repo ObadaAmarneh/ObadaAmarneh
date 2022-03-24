@@ -50,5 +50,5 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 <br />
 
 [linkedin]:https://www.linkedin.com/in/obada-amarneh/
-[github]: https://github.com/ObadaAmarneh?tab=follow
+[github]: https://github.com/ObadaAmarneh?tab=follow=true
 [email]: mailto:obada.amarneh20@gmail.com
